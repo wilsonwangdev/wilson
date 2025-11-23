@@ -47,3 +47,11 @@ A: In C++, both exist: references are non-null, non-reseatable aliases; pointers
 > Python: Variables hold references to objects; everything is an object, and memory is managed. No explicit pointers.
 >
 > JavaScript: Primitives copy by value; objects/arrays/functions are passed and assigned by reference-like semantics. No explicit pointers.
+
+Q: What does .a and .so mean in Linux?
+
+A: .a means “archive” (static), .so means “shared object” (dynamic) from Unix/ELF history
+
+> On Unix, static libraries were packaged by the ar tool into archives of object files, hence the extension .a for “archive.” Linkers would extract only needed objects from that archive at build time, embedding them into the executable.
+>
+> When System V and later Unix variants adopted ELF, they formalized dynamically loaded libraries as shared objects—ELF files with type ET_DYN—so the convention became .so for “shared object.”
