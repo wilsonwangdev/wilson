@@ -4,3 +4,4 @@
 - [PC](./pc.md)
 - [MISC](./misc.md)
 - [glossary](./glossary.md)
+- [dict](./dict.md)
