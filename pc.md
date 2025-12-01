@@ -4,6 +4,10 @@
 
 - [clash-verge](https://github.com/clash-verge-rev/clash-verge-rev)
 
+## Package Tool
+
+- [homebrew](https://brew.sh/)
+
 ## Browser
 
 - [Chrome](https://www.google.com/chrome/)
