@@ -24,6 +24,10 @@
 - [Trae](https://www.trae.ai/)
 - [Cursor](https://cursor.com/)
 
+## Editor Plugins
+
+- [GitLens](https://open-vsx.org/extension/eamodio/gitlens)
+
 ## Terminal
 
 - [iterm2](https://iterm2.com/)
